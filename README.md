@@ -8,10 +8,10 @@ This notebook is all about building an ETL (Extract, Transform, Load) pipeline u
 
 For this project, I’m using two main datasets from the World Bank:
 
-1. **World Bank Indicator Data:**  
+1.  [World Bank Indicator Data](https://data.worldbank.org/indicator)  
    Socio-economic indicators for countries around the world, such as population, arable land, and government debt levels.
 
-2. **World Bank Project Data:**  
+2.   [World Bank Project Data](https://datacatalog.worldbank.org/dataset/world-bank-projects-operations) 
    Information about World Bank-funded projects dating back to 1947, with details like project names, sectors, costs, and country information.
 
 ## Project Outline
